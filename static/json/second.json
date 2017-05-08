@@ -1,0 +1,22 @@
+﻿[
+  {
+    "pic":"static/images/game.jpg",
+    "name":"密室逃脱游戏",
+    "link":"http://glaveinfo.com/huokou/wx/web/index.php"
+  },
+  {
+    "pic":"static/images/tyyg.jpg",
+    "name":"天语雅阁点餐系统",
+    "link":"https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxf1bd734e52476c65&redirect_uri=http%3A%2F%2Fwx.richcafe1999.com%2Findex.aspx&response_type=code&scope=snsapi_userinfo&state=STATE#wechat_redirect"
+  },
+  {
+    "pic":"static/images/klr.jpg",
+    "name":"恐龙人俱乐部",
+    "link":"http://www.dinomanclub.com/unlogin/home/home.page"
+  },
+  {
+    "pic":"static/images/huiben.jpg",
+    "name":"绘本",
+    "link":"http://www.babahuiben.com/"
+  }
+]

@@ -1,0 +1,12 @@
+﻿[
+  {
+    "pic":"static/images/doctors.png",
+    "name":"三方惠诊",
+    "link":"http://user.3fhz.com/loginReg/"
+  },
+  {
+    "pic":"static/images/cars.png",
+    "name":"代客泊车",
+    "link":"http://wx.viparker.com/valetparking/wx/web/index.php/site/login"
+  }
+]
