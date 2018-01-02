@@ -1,15 +1,15 @@
 {
-    "name": "陈闯",
-    "short_name": "chenchuang",
+    "name": "常州吴彦祖",
+    "short_name": "陈闯简历",
     "description": "这是一个Vue版的个人简历",
     "lang": "cn",
     "icons": [{
-            "src": "https://benchenchuang.github.io/chenchuang/logo_1.png",
+            "src": "logo_1.png",
             "type": "image/png",
             "sizes": "144x144"
         },
         {
-            "src": "https://benchenchuang.github.io/chenchuang/logo_2.png",
+            "src": "logo_2.png",
             "type": "image/png",
             "sizes": "96x96"
         }
@@ -17,6 +17,6 @@
     "start_url": "https://benchenchuang.github.io/chenchuang/#/home",
     "display": "standalone",
     "orientation": "portrait",
-    "theme_color": "#3b3b3e",
-    "background_color": "#3b3b3e"
+    "theme_color": "#f8f8f8",
+    "background_color": "#f8f8f8"
 }
