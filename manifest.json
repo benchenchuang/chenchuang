@@ -1,23 +1,22 @@
 {
-  "name": "³Â´³",
-  "short_name": "chenchuang",
-  "description": "ÕâÊÇÒ»¸öVue°æµÄ¸öÈË¼òÀú",
-  "lang": "cn",
-  "icons": [
-    {
-      "src": "https://benchenchuang.github.io/chenchuang/logo_1.png",
-      "type": "image/png",
-      "sizes": "144x144"
-    },
-    {
-      "src": "https://benchenchuang.github.io/chenchuang/logo_2.png",
-      "type": "image/png",
-      "sizes": "96x96"
-    }
-  ],
-  "start_url": "https://benchenchuang.github.io/chenchuang/#/home",
-  "display": "standalone",
-  "orientation": "portrait",
-  "theme_color": "#3b3b3e",
-  "background_color": "#3b3b3e"
+    "name": "é™ˆé—¯",
+    "short_name": "chenchuang",
+    "description": "è¿™æ˜¯ä¸€ä¸ªVueç‰ˆçš„ä¸ªäººç®€åŽ†",
+    "lang": "cn",
+    "icons": [{
+            "src": "https://benchenchuang.github.io/chenchuang/logo_1.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "https://benchenchuang.github.io/chenchuang/logo_2.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        }
+    ],
+    "start_url": "https://benchenchuang.github.io/chenchuang/#/home",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#3b3b3e",
+    "background_color": "#3b3b3e"
 }
