@@ -1,0 +1,23 @@
+{
+  "name": "陈闯",
+  "short_name": "chenchuang",
+  "description": "这是一个Vue版的个人简历",
+  "lang": "cn",
+  "icons": [
+    {
+      "src": "logo_1.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "logo_2.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    }
+  ],
+  "start_url": "https://benchenchuang.github.io/chenchuang/#/home",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#3b3b3e",
+  "background_color": "#3b3b3e"
+}
