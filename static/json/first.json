@@ -10,13 +10,13 @@
   "link":"https://benchenchuang.github.io/movie/#/"
 },
 {
+    "pic":"static/images/game.jpg",
+    "name":"密室逃脱游戏",
+    "link":"http://139.224.30.199/mengkemeng/wx/web/index.php"
+  },
+{
   "pic":"static/images/doctors.png",
   "name":"三方惠诊",
   "link":"http://wx.3fhz.com/"
-},
-{
-  "pic":"static/images/cars.png",
-  "name":"代客泊车",
-  "link":"http://wx.viparker.com/valetparking/wx/web/index.php/site/login"
 }
 ]
