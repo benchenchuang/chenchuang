@@ -17,6 +17,6 @@
     "start_url": "https://benchenchuang.github.io/chenchuang/#/home",
     "display": "standalone",
     "orientation": "portrait",
-    "theme_color": "#f8f8f8",
-    "background_color": "#f8f8f8"
+    "theme_color": "#3b3b3e",
+    "background_color": "#3b3b3e"
 }
