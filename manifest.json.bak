@@ -5,12 +5,12 @@
   "lang": "cn",
   "icons": [
     {
-      "src": "../images/logo_1.png",
+      "src": "logo_1.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "../images/logo_2.png",
+      "src": "logo_2.png",
       "type": "image/png",
       "sizes": "96x96"
     }

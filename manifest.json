@@ -5,12 +5,12 @@
   "lang": "cn",
   "icons": [
     {
-      "src": "logo_1.png",
+      "src": "https://benchenchuang.github.io/chenchuang/logo_1.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "logo_2.png",
+      "src": "https://benchenchuang.github.io/chenchuang/logo_2.png",
       "type": "image/png",
       "sizes": "96x96"
     }
