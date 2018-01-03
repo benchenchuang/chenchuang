@@ -3,7 +3,8 @@ var cacheStorageKey = 'minimal-pwa-1'
 var cacheList = [
   '/',
   "index.html",
-  "/static/",
+  "/static/style/mine.css",
+  "/static/js/mine.js",
   "logo_1.png"
 ]
 
