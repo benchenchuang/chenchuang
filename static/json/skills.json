@@ -3,16 +3,16 @@
    "style":"skill_node",
    "name1":"Nd",
    "name2":"NodeJS",
-   "txt":"熟悉NodeJS的基本语法及运用，可运用express做简单的博客系统，实际项目经验还有待开展",
-   "power":"50%",
+   "txt":"熟悉NodeJS的基本语法及运用，可运用express或koa框架做简单的博客系统，小商城等，实际项目经验还有待开展",
+   "power":"60%",
    "power_txt":"熟悉度"
  },
  {
    "style":"skill_vue",
    "name1":"Vue",
    "name2":"Vue.js",
-   "txt":"熟悉vue.js的基本语法及运用，这个简历就是vue做的，然后还做了个豆瓣电影排行榜的vue demo,目前正在练习更多项目中.",
-   "power":"70%",
+   "txt":"熟悉vue.js的基本语法及运用，这个简历就是vue做的，然后还做了个豆瓣电影/知乎日报等。目前也是工作中经常使用的框架.",
+   "power":"80%",
    "power_txt":"熟悉度"
  },
  {
